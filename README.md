@@ -23,7 +23,7 @@ To build & run the projects for the book:
   "C:\MasteringOpenCV" for Windows or "~/MasteringOpenCV" for Linux.
   
 - Install CMake v2.8 or later from "http://www.cmake.org/".
-
+ 
 Each chapter of the book is for a separate project. Therefore there are 9
 projects for the 9 chapters (remember that Chapter 9 is an online chapter that
 can be downloaded from "http://www.packtpub.com/cool-projects-with-opencv/book").
