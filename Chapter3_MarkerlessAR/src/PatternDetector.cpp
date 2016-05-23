@@ -22,8 +22,8 @@
 #include <iomanip>
 #include <cassert>
 
-PatternDetector::PatternDetector(cv::Ptr<cv::FeatureDetector> detector, 
-    cv::Ptr<cv::DescriptorExtractor> extractor, 
+PatternDetector::PatternDetector(cv::Ptr<cv::ORB> detector, 
+    cv::Ptr<cv::xfeatures2d::FREAK> extractor, 
     cv::Ptr<cv::DescriptorMatcher> matcher, 
     bool ratioTest)
     : m_detector(detector)
