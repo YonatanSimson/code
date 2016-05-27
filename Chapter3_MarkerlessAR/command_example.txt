@@ -1,0 +1,1 @@
+./build/src/markerless_ar_demo ./src/PyramidPattern.jpg ./src/PyramidPatternTest.bmp
